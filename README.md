@@ -1,4 +1,4 @@
-# Redux-Shop-App or [Watch Live]()
+# Redux-Shop-App or [Watch Live](https://redux-shop-app1.netlify.app/)
 
 - A basic app created to learn implementation in Redux.
 
